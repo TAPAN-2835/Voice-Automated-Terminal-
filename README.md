@@ -168,5 +168,3 @@ Or press **Ctrl + C**.
 🎓 Pandit Deendayal Energy University (PDEU)
 
 ---
-
-Would you like me to include a `requirements.txt` file content and a small example of how to add **custom wake words** (like “Hey Shell”) before commands?
